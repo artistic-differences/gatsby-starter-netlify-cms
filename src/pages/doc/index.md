@@ -1,4 +1,4 @@
 ---
 title: I am a new doc
 ---
-I am some markdown
+I am stored in markdown format
